@@ -1,0 +1,1 @@
+The Movie Recommendation Project is designed to provide personalized movie recommendations to users based on their preferences and viewing history. This system utilizes collaborative filtering, content-based filtering, and hybrid recommendation approaches to suggest movies that users are likely to enjoy
